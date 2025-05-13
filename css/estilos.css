@@ -5,7 +5,7 @@ body{
 /* MENU */
 
 .navbar {
-  background-color: #004776;
+  background-color: #007629;
 }
 
 .navbar a:hover {
@@ -30,12 +30,12 @@ body{
 }
 .caja-presentacion-home h1,
 .caja-presentacion-ser h1 {
-  background-color: #004776;
+  background-color: #007629;
 }
 
 h2,
 h3,h4,h5 {
-  color: #004776;
+  color: #007629;
 }
 
 .servicios-icon {
@@ -47,12 +47,12 @@ h3,h4,h5 {
 }
 
 .btn-1:hover {
-  background-color: #004776;
+  background-color: #007629;
   color: #fff;
 }
 
 .caja-azul {
-  background-color: rgba(101, 187, 235, 0.5);
+  background-color: rgba(131, 244, 148, 0.5);
 }
 
 /* --- PANELES --- */
@@ -62,7 +62,7 @@ h3,h4,h5 {
 }
 
 .tab-pane > p, ul {
-    color: #004776
+    color: #007629
 }
 
 .tab-servicio{
@@ -85,7 +85,7 @@ footer {
 }
 
 .btn-2 {
-  background-color: #004776;
+  background-color: #007629;
 }
 
 .btn-2:hover {
